@@ -53,7 +53,7 @@
     "href": "reflection.html",
     "title": "Reflection",
     "section": "",
-    "text": "##Reflection on the use of GenAI\nI used ChatGPT to support this assessment by generating code examples, fixing errors, and refining explanations. It saved time and clarified concepts quickly. However, outputs require verification and critical thinking. In future studies and work, GenAI will assist brainstorming, coding, and documentation while I remain responsible for ethical academic use."
+    "text": "I used ChatGPT to support this assessment by generating code examples, fixing errors, and refining explanations.\nIt saved time and clarified concepts quickly. However, outputs require verification and critical thinking.\nIn future studies and work, GenAI will assist brainstorming, coding, and documentation while I remain responsible for ethical academic use."
   },
   {
     "objectID": "datavisualization.html#about-the-project",
@@ -75,5 +75,12 @@
     "title": "Data Visualization",
     "section": "The scoring system consists of three parts",
     "text": "The scoring system consists of three parts\n\n\n\n\n\n\n\n\n\nBased on our testing, component caps prevent single-factor dominance. Without caps, keyword-rich but legitimate emails would be misclassified."
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection",
+    "section": "",
+    "text": "I used ChatGPT to support this assessment by generating code examples, fixing errors, and refining explanations.\nIt saved time and clarified concepts quickly. However, outputs require verification and critical thinking.\nIn future studies and work, GenAI will assist brainstorming, coding, and documentation while I remain responsible for ethical academic use."
   }
 ]
