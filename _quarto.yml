@@ -9,7 +9,7 @@ website:
       - text: "Home"
         href: index.qmd
       - about.qmd
-      - Data Visualization.qmd
+      - datavisualization.qmd
       - reflection.qmd
 
 format:

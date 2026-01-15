@@ -3,12 +3,13 @@ title: "My FYP Project"
 ---
 
 ##  About My FYP Project
-![](images/IHIS.jpg){fig-alt="Photo of Shang Jay at IHIS" style="width:30%; border-radius:16px;"}
+![](images/IHIS.jpg){fig-alt="Photo of Shang Jay at IHIS" style="width:40%; border-radius:16px;"}
+
 **My FYP project was a 6 months internship at Synapxe Pte Ltd, formerly known as Integrated Health Information System (IHiS). Synapxe is a healthcare technology company that provides digital solutions to improve healthcare delivery in Singapore.**
 
 ## Intern Responsibility
+![](images/working.jpg){fig-alt="Photo of Shang Jay working" style="width:40%; border-radius:16px;"}
+
 - **Worked in a team supporting the Next Generation Electronic Medical Records (NGEMR) Go-Live Project at Tan Tock Seng Hospital and >10 affiliated healthcare clinics across Singapore.**
 - **Provided on-site end-user support for healthcare staff across hospitals and clinics.**
 - **Conducted application testing and troubleshooting on end-user devices.**
-
-![](images/working.jpg){fig-alt="Photo of Shang Jay working" style="width:20%; border-radius:16px;"}
