@@ -2,3 +2,5 @@
 title: "Reflection"
 ---
 
+##Reflection on the use of GenAI
+

@@ -13,3 +13,4 @@ title: "My FYP Project"
 - **Worked in a team supporting the Next Generation Electronic Medical Records (NGEMR) Go-Live Project at Tan Tock Seng Hospital and >10 affiliated healthcare clinics across Singapore.**
 - **Provided on-site end-user support for healthcare staff across hospitals and clinics.**
 - **Conducted application testing and troubleshooting on end-user devices.**
+- **Assisted many nurses and doctors in adapting to the new NGEMR system.**
