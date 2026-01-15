@@ -2,5 +2,8 @@
 title: "Reflection"
 ---
 
-##Reflection on the use of GenAI
+## Reflection on the use of GenAI
 
+- I used ChatGPT to support this assessment by generating code examples, fixing errors, and refining explanations. 
+- It saved time and clarified concepts quickly. However, outputs require verification and critical thinking. 
+- In future studies and work, GenAI will assist brainstorming, coding, and documentation while I remain responsible for ethical academic use.

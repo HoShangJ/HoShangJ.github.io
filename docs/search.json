@@ -39,7 +39,7 @@
     "href": "about.html#intern-responsibility",
     "title": "My FYP Project",
     "section": "Intern Responsibility",
-    "text": "Intern Responsibility\n\n\nWorked in a team supporting the Next Generation Electronic Medical Records (NGEMR) Go-Live Project at Tan Tock Seng Hospital and &gt;10 affiliated healthcare clinics across Singapore.\nProvided on-site end-user support for healthcare staff across hospitals and clinics.\nConducted application testing and troubleshooting on end-user devices."
+    "text": "Intern Responsibility\n\n\nWorked in a team supporting the Next Generation Electronic Medical Records (NGEMR) Go-Live Project at Tan Tock Seng Hospital and &gt;10 affiliated healthcare clinics across Singapore.\nProvided on-site end-user support for healthcare staff across hospitals and clinics.\nConducted application testing and troubleshooting on end-user devices.\nAssisted many nurses and doctors in adapting to the new NGEMR system."
   },
   {
     "objectID": "about.html#about-my-fyp-project",
@@ -53,7 +53,7 @@
     "href": "reflection.html",
     "title": "Reflection",
     "section": "",
-    "text": "##Reflection on the use of GenAI"
+    "text": "##Reflection on the use of GenAI\nI used ChatGPT to support this assessment by generating code examples, fixing errors, and refining explanations. It saved time and clarified concepts quickly. However, outputs require verification and critical thinking. In future studies and work, GenAI will assist brainstorming, coding, and documentation while I remain responsible for ethical academic use."
   },
   {
     "objectID": "datavisualization.html#about-the-project",
@@ -67,6 +67,13 @@
     "href": "datavisualization.html#problems-to-be-addressed",
     "title": "Data Visualization",
     "section": "Problems to be addressed",
-    "text": "Problems to be addressed\nPhishing remains one of the most widespread cyber threats in Singapore and worldwide. Such emails exploit emotions like fear, urgency, curiosity, and kindness to appear more convincing. Attackers often impersonate celebrities or trusted companies to trick victims into revealing personal information. Many fall for these scams due to the urgency to respond, perceived authority, or a desire to help. According to a Yahoo News report from August 2025 [1], nearly half a billion dollars were lost across about 20,000 scam cases in Singapore during the first half of 2025.\n##Results and insights\n\nlabels &lt;- c(\"Domain Verification\", \"URL analysis\", \"Keyword Detection\")\nvalues &lt;- c(5, 6, 15)\npercentages &lt;- round(values / sum(values) * 100, 1)\nlabel_text &lt;- paste0(labels, \"\\n\", percentages, \"%\")\ncolors &lt;- c(\"#4285F4\", \"#EA4335\", \"#FBBC05\")\npie(\n  values,\n  labels = label_text,\n  col = colors,\n  border = \"white\",\n  main = \"Maximum Score Distribution (max 26)\",\n  cex.main = 1.4,\n  cex = 1\n)"
+    "text": "Problems to be addressed\nPhishing remains one of the most widespread cyber threats in Singapore and worldwide. Such emails exploit emotions like fear, urgency, curiosity, and kindness to appear more convincing. Attackers often impersonate celebrities or trusted companies to trick victims into revealing personal information. Many fall for these scams due to the urgency to respond, perceived authority, or a desire to help. According to a Yahoo News report from August 2025 [1], nearly half a billion dollars were lost across about 20,000 scam cases in Singapore during the first half of 2025."
+  },
+  {
+    "objectID": "datavisualization.html#the-scoring-system-consists-of-three-parts",
+    "href": "datavisualization.html#the-scoring-system-consists-of-three-parts",
+    "title": "Data Visualization",
+    "section": "The scoring system consists of three parts",
+    "text": "The scoring system consists of three parts\n\n\n\n\n\n\n\n\n\nBased on our testing, component caps prevent single-factor dominance. Without caps, keyword-rich but legitimate emails would be misclassified."
   }
 ]
