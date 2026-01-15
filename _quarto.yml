@@ -6,9 +6,11 @@ website:
   title: "Home"
   navbar:
     left:
+      - text: "Home"
+        href: index.qmd
       - about.qmd
-      - relfection.qmd
       - Data Visualization.qmd
+      - reflection.qmd
 
 format:
   html:

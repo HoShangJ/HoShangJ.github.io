@@ -2,6 +2,18 @@
 title: "Home"
 ---
 
-```
+## Hi, my name is Ho Shang Jay
+![](images/Jay.jpg){fig-alt="Photo of Shang Jay" style="width:40%; border-radius:16px;"}
 
-```
+### Short self-introduction
+I am a motivated Applied Computing (FinTech) year 1 student at Singapore Institute of Technology. I have hands-on experience in programming, problem-solving, and collaborative project work. A results-driven and detail-oriented individual, I thrive on learning, perseverance, and contributing to team-driven innovation. I enjoy exchanging ideas, sparking creativity, and developing effective solutions to complex problems. Open to exploring diverse roles in business and financial technology to further expand my knowledge, skills and experience.
+
+## Quick Facts
+- **Nationality:** Singaporean
+- **Currently:** SIT University Student  
+- **Interests:** Gym, creating programmes, exploring new technologies
+- **Skills:** R, Python, SQL, Java, C++, HTML, CSS, Java
+- **Achievements:** Best Signaller in 40SAR, Green Belt in Judo
+
+
+

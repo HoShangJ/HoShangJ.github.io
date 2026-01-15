@@ -2,15 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a motivated Applied Computing (FinTech) year 1 student at Singapore Institute of Technology. I have hands-on experience in programming, problem-solving, and collaborative project work. A results-driven and detail-oriented individual, I thrive on learning, perseverance, and contributing to team-driven innovation. I enjoy exchanging ideas, sparking creativity, and developing effective solutions to complex problems. Open to exploring diverse roles in business and financial technology to further expand my knowledge, skills and experience."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "My NS Journey",
+    "title": "My FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "##My FYP project was a 6 months internship at Synapxe Pte Ltd, formerly known as Integrated Health Information System (IHiS). Synapxe is a healthcare technology company that provides digital solutions to improve healthcare delivery in Singapore."
+  },
+  {
+    "objectID": "index.html#hi-im-ho-shang-jay",
+    "href": "index.html#hi-im-ho-shang-jay",
+    "title": "Home",
+    "section": "",
+    "text": "I am a motivated Applied Computing (FinTech) student at Singapore Institute of Technology."
+  },
+  {
+    "objectID": "index.html#hi-my-name-is-ho-shang-jay",
+    "href": "index.html#hi-my-name-is-ho-shang-jay",
+    "title": "Home",
+    "section": "",
+    "text": "I am a motivated Applied Computing (FinTech) year 1 student at Singapore Institute of Technology. I have hands-on experience in programming, problem-solving, and collaborative project work. A results-driven and detail-oriented individual, I thrive on learning, perseverance, and contributing to team-driven innovation. I enjoy exchanging ideas, sparking creativity, and developing effective solutions to complex problems. Open to exploring diverse roles in business and financial technology to further expand my knowledge, skills and experience."
+  },
+  {
+    "objectID": "index.html#quick-facts",
+    "href": "index.html#quick-facts",
+    "title": "Home",
+    "section": "Quick Facts",
+    "text": "Quick Facts\n\nNationality: Singaporean\nCurrently: SIT University Student\n\nInterests: Gym, creating programmes, exploring new technologies\nSkills: R, Python, SQL, Java, C++, HTML, CSS, Java\nAchievements: Best Signaller in 40SAR, Green Belt in Judo"
+  },
+  {
+    "objectID": "about.html#intern-responsibility",
+    "href": "about.html#intern-responsibility",
+    "title": "My FYP Project",
+    "section": "Intern Responsibility",
+    "text": "Intern Responsibility\n\nWorked in a team supporting the Next Generation Electronic Medical Records (NGEMR) Go-Live Project at Tan Tock Seng Hospital and &gt;10 affiliated healthcare clinics across Singapore.\nProvided on-site end-user support for healthcare staff across hospitals and clinics.\nConducted application testing and troubleshooting on end-user devices."
+  },
+  {
+    "objectID": "about.html#about-my-fyp-project",
+    "href": "about.html#about-my-fyp-project",
+    "title": "My FYP Project",
+    "section": "",
+    "text": "My FYP project was a 6 months internship at Synapxe Pte Ltd, formerly known as Integrated Health Information System (IHiS). Synapxe is a healthcare technology company that provides digital solutions to improve healthcare delivery in Singapore."
   }
 ]
